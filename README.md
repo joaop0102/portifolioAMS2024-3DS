@@ -16,7 +16,7 @@ O curso AMS na ETEC Zona Leste é uma oportunidade única para adquirir habilida
 
 ## Contato
 <div align="center"> 
-Caso queira enviar algum feedback, sinta-se a vontade em entrar em contato comigo através do contato abaixo.
+Caso queira enviar algum feedback, sinta-se a vontade em entrar em contato comigo através do link abaixo.
 
   
 <a href="www.linkedin.com/in/joão-pedro-s-172b69274" target="_blank">Linkedin</a> 

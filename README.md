@@ -1,4 +1,3 @@
-
 <div align="center">
 <img width="100" src="img/ibm.png">
 <img width="100" src="img/etec.jpg"> 

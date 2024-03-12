@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100" src="img/ibm.png">
+<img width="100" src="https://www.google.com/search?sca_esv=295fbb2fc4590fb4&sxsrf=ACQVn0896pzL-B-u9RPpO-Yzc3OxV4O4HA:1710279609340&q=ibm&uds=AMwkrPv607C9Jbt8x9IG9PVrF7FcnpAJzOn0v-TZGyoapZFFcD-ooF3ZYpzOeYByLK4cuagst_PXf8AGZt5flSldOospcs005C8ocg3fVdHNkBmOis8JtyL5NDNzWUJWErOHZLOVPEHL9x3fbnVG0QheBwfhtmSeQ-TMVwkaXXjboimr3-Mrkc1Udet-m2wVlW15vj0GiV-mXARQ_4O_CPAxNfSsarjFC0x3XuVEv1ictAKLezX3hH_EJCbrjnk_4xc-F3siPiMxSglG9VquUvOggArCepvTcAsg3guPJq6rm_AYXO9qRlY&udm=2&prmd=ivnsmbtz&sa=X&ved=2ahUKEwjY6tKE2O-EAxUVr5UCHRwICBkQtKgLegQIGhAB&biw=958&bih=943&dpr=1#vhid=IcnqQUqNMRixHM&vssid=mosaic">
 <img width="100" src="img/etec.jpg"> 
 </div>
 <br></br>

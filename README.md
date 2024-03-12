@@ -1,6 +1,4 @@
 <div align="center">
-<img width="100" src="[https://www.google.com/search?sca_esv=295fbb2fc4590fb4&sxsrf=ACQVn0896pzL-B-u9RPpO-Yzc3OxV4O4HA:1710279609340&q=ibm&uds=AMwkrPv607C9Jbt8x9IG9PVrF7FcnpAJzOn0v-TZGyoapZFFcD-ooF3ZYpzOeYByLK4cuagst_PXf8AGZt5flSldOospcs005C8ocg3fVdHNkBmOis8JtyL5NDNzWUJWErOHZLOVPEHL9x3fbnVG0QheBwfhtmSeQ-TMVwkaXXjboimr3-Mrkc1Udet-m2wVlW15vj0GiV-mXARQ_4O_CPAxNfSsarjFC0x3XuVEv1ictAKLezX3hH_EJCbrjnk_4xc-F3siPiMxSglG9VquUvOggArCepvTcAsg3guPJq6rm_AYXO9qRlY&udm=2&prmd=ivnsmbtz&sa=X&ved=2ahUKEwjY6tKE2O-EAxUVr5UCHRwICBkQtKgLegQIGhAB&biw=958&bih=943&dpr=1#vhid=IcnqQUqNMRixHM&vssid=mosaic](https://www.google.com/url?sa=i&url=https%3A%2F%2Folhardigital.com.br%2F2020%2F05%2F05%2Fcoronavirus%2Fibm-libera-mais-de-80-mil-patentes-para-uso-no-combate-ao-coronavirus%2F&psig=AOvVaw0N91FTLEgxWDHszo4hpAK8&ust=1710366015664000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDNm4nY74QDFQAAAAAdAAAAABAJ)">
-<img width="100" src="img/etec.jpg"> 
 </div>
 <br></br>
 <div align="center"> 
@@ -21,6 +19,6 @@ O curso AMS na ETEC Zona Leste é uma oportunidade única para adquirir habilida
 Caso queira enviar algum feedback, sinta-se a vontade em entrar em contato comigo através do contato abaixo.
 
   
-<a href="https://www.linkedin.com/in/ricardo-luquetti-codo-835a5125b" target="_blank"><img src="img/lik.png" target="_blank"></a> 
+<a href="www.linkedin.com/in/joão-pedro-s-172b69274" target="_blank"></a> 
  </div>
 </div>
